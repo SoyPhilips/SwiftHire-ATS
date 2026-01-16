@@ -1,4 +1,4 @@
-# 🚀 SwiftHire ATS - Modern Applicant Tracking System
+# SwiftHire ATS - Modern Applicant Tracking System
 
 SwiftHire ATS is a premium, high-performance Applicant Tracking System designed for modern recruitment teams. Built with a focus on **High-Volume Candidate Review**, it offers a seamless, intuitive, and aesthetic experience to manage your hiring pipeline from sourcing to hiring.
 
@@ -6,32 +6,32 @@ SwiftHire ATS is a premium, high-performance Applicant Tracking System designed 
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 📋 Interactive Pipeline
+### Interactive Pipeline
 - **Drag & Drop Board**: Move candidates effortlessly through different hiring stages (Sourcing, Interview, Technical Test, Hired).
 - **Candidate Cards**: Instant visibility of candidate roles, skills, ratings, and recent feedback.
 
-### 👤 Candidate Directory
+### Candidate Directory
 - **Split-View Management**: Browse your candidate list while simultaneously previewing CVs and editing feedback.
 - **Side Preview**: Review curriculum vitae and profile details without losing your place in the list.
 - **Skill Filtering**: Quick chips to filter talent by specific technologies (React, Node.js, AWS, etc.).
 
-### 💼 Job Management
+### Job Management
 - **Centralized Openings**: Manage all active roles, departments, and applicant counts.
 - **Detail Modals**: Premium glassmorphism modals providing deep dives into job descriptions and requirements.
 
-### 📅 Advanced Scheduling
+### Advanced Scheduling
 - **Interview Calendar**: Keep track of upcoming technical interviews and culture fits.
 - **Event Creation**: Schedule new interactions with candidates in seconds.
 
-### 🔔 Smart Notifications
+### Smart Notifications
 - **Real-time Updates**: Functionality bell icon to stay updated on pipeline movements and new applications.
 - **Actionable Alerts**: Quick access to recent activities directly from the topbar.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Core**: [React.js](https://reactjs.org/) (Vite)
 - **Styling**: Vanilla CSS (Custom Design System with Glassmorphism)
@@ -41,7 +41,7 @@ SwiftHire ATS is a premium, high-performance Applicant Tracking System designed 
 
 ---
 
-## 🚀 Getting Started (Local Setup)
+## Getting Started (Local Setup)
 
 Follow these steps to get the project up and running on your local machine:
 
@@ -72,7 +72,7 @@ Follow these steps to get the project up and running on your local machine:
 
 ---
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
 SwiftHire follows a **Premium & Clean** aesthetic.
 - **Glassmorphism**: Subtle background blurs and translucent layers for depth.
@@ -81,7 +81,7 @@ SwiftHire follows a **Premium & Clean** aesthetic.
 
 ---
 
-## 📄 License
+## License
 This project is for educational and portfolio purposes. Feel free to use and adapt it!
 
-Developed with ❤️ by [SoyPhilips](https://github.com/SoyPhilips)
+Developed by [SoyPhilips](https://github.com/SoyPhilips)
